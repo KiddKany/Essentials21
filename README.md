@@ -37,10 +37,6 @@ for more visit : `Essentials > Me > changelog.json`
 ----------------------------------------
 ```
 
-## Disponible en:
-![Curseforge](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/available/curseforge_vector.svg)
-![Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/available/modrinth_vector.svg)
-
 ## ⚡ Requisitos Básicos
 
 Estos requisitos hacen que puedas usar al 100% el complemento :)
