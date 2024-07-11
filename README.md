@@ -54,7 +54,7 @@ Estos requisitos hacen que puedas usar al 100% el complemento :)
 
 >   [CitResewn](https://modrinth.com/mod/cit-resewn)
 
-- Optifine (1.202 - 1.20.4)
+- Optifine (1.20.2 - 1.20.4)
 >   [List versions](https://optifine.net/downloads)
 
 ## ⚠ Incompatibilidades
