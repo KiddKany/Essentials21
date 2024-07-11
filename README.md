@@ -58,7 +58,7 @@ __📰 ¿Qué hay de nuevo?__
 - Modelos 3D: 
   Mesas, Puertas, trampillas, railes, cadenas, ventanas, estanterias
   bibliotecas, bloques de cobres, spawners, camas, vayas, escaleras.
-- Se mantuvo los diseños de mods en las camas.
+- Se mantuvo los diseños de mobs en las camas.
 for more visit : `Essentials > Me > changelog.json`
 ----------------------------------------
 ```
