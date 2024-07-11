@@ -14,7 +14,7 @@ __¡Explora un Minecraft completamente renovado con nuestro paquete de texturas!
 🔎 [Guia de instalación](https://www.lifewire.com/how-to-install-minecraft-resource-packs-4767666)
 
 __📰 ¿Qué hay de nuevo?__
-```json
+```jsonl
 ----------------------------------------
 17.0.05.07 Compilacion 
 ⚡News:
