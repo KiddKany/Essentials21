@@ -45,7 +45,7 @@ for more visit : `Essentials > Me > changelog.json`
 
 Estos requisitos hacen que puedas usar al 100% el complemento :)
 
-- Fabric (1.120.2 - 1.21)
+- Fabric (1.20.2 - 1.21)
 >   [EMF](https://modrinth.com/mod/entity-model-features)
 
 >   [ETF](https://modrinth.com/mod/entitytexturefeatures)
