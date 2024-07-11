@@ -13,6 +13,32 @@ __¡Explora un Minecraft completamente renovado con nuestro paquete de texturas!
 
 🔎 [Guia de instalación](https://www.lifewire.com/how-to-install-minecraft-resource-packs-4767666)
 
+## Versiones de MC Compatibles
+| Version | Compatibilidad |
+| ------ | -----|
+| 1.21 | ✔ |
+| 1.20.6 | ✔  |
+| 1.20.5 | ✔ |
+| 1.20.4 | ✔ |
+| 1.20.3 | ✔ |
+| 1.20.2 | ✔ |
+
+## ⚡ Requisitos Básicos
+
+Estos requisitos hacen que puedas usar al 100% el complemento :)
+
+- Fabric (1.20.2 - 1.21)
+>   [EMF](https://modrinth.com/mod/entity-model-features)
+
+>   [ETF](https://modrinth.com/mod/entitytexturefeatures)
+
+>   [OptiGUI](https://modrinth.com/mod/optigui)
+
+>   [CitResewn](https://modrinth.com/mod/cit-resewn)
+
+- Optifine (1.20.2 - 1.20.4)
+>   [List versions](https://optifine.net/downloads)
+
 __📰 ¿Qué hay de nuevo?__
 ```jsonl
 ----------------------------------------
@@ -36,22 +62,6 @@ __📰 ¿Qué hay de nuevo?__
 for more visit : `Essentials > Me > changelog.json`
 ----------------------------------------
 ```
-
-## ⚡ Requisitos Básicos
-
-Estos requisitos hacen que puedas usar al 100% el complemento :)
-
-- Fabric (1.20.2 - 1.21)
->   [EMF](https://modrinth.com/mod/entity-model-features)
-
->   [ETF](https://modrinth.com/mod/entitytexturefeatures)
-
->   [OptiGUI](https://modrinth.com/mod/optigui)
-
->   [CitResewn](https://modrinth.com/mod/cit-resewn)
-
-- Optifine (1.20.2 - 1.20.4)
->   [List versions](https://optifine.net/downloads)
 
 ## ⚠ Incompatibilidades
 __Hasta ahora la única incompatibilidad la tenemos con el mod Continuity (Sigo trabajando para repararla)__
