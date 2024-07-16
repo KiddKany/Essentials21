@@ -8,8 +8,9 @@ __¡Explora un Minecraft completamente renovado con nuestro paquete de texturas!
 
 ## Idiomas
 
-![US](https://img.shields.io/badge/US-English-74D400?style=for-the-badge)
-![ES](https://img.shields.io/badge/ES-Español-74D400?style=for-the-badge)
+<kbd>[<img title="English" alt="English" src="https://crearts-community.github.io/Assets/languages/english.png" width="40">](readme.md)</kbd>
+<kbd>[<img title="Spanish" alt="Spanish" src="https://crearts-community.github.io/Assets/languages/spanish.png" width="40">](.github/docs/translations/readme/spanish.md)</kbd>
+
 
 🔎 [Guia de instalación](https://www.lifewire.com/how-to-install-minecraft-resource-packs-4767666)
 
