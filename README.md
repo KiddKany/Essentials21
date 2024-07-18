@@ -22,7 +22,8 @@ __¡Explora un Minecraft completamente renovado con nuestro paquete de texturas!
 | 1.20.3 | ✔ |
 | 1.20.2 | ✔ |
 | 1.20.1 | ⚠️ (80%)|
-|1.20| ⚠️ |
+| 1.20 | ⚠️ |
+| 1.19.4 | ⛔ |
 
 ## ⚡ Requisitos Básicos
 
