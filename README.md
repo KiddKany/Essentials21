@@ -4,8 +4,6 @@ __¡Explora un Minecraft completamente renovado con nuestro paquete de texturas!
 ![Github](https://img.shields.io/badge/V%2017.0-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/MINECRAFT-JAVA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### **📦 30 Copias disponibles**
-
 ## Idiomas
 
 <kbd>[<img title="English" alt="English" src="https://crearts-community.github.io/Assets/languages/english.png" width="40">](readme.md)</kbd>
@@ -17,12 +15,14 @@ __¡Explora un Minecraft completamente renovado con nuestro paquete de texturas!
 ## Versiones de MC Compatibles
 | Version | Compatibilidad |
 | ------ | -----|
-| 1.21 | ✔ |
+| 1.21 | ✔ (100%)|
 | 1.20.6 | ✔  |
 | 1.20.5 | ✔ |
 | 1.20.4 | ✔ |
 | 1.20.3 | ✔ |
 | 1.20.2 | ✔ |
+| 1.20.1 | ⚠️ (80%)|
+|1.20| ⚠️ |
 
 ## ⚡ Requisitos Básicos
 
